@@ -1,0 +1,23 @@
+footer {
+	padding-top: 1em;
+	padding-bottom: 2em;
+}
+
+.footer-item {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.social-icon {
+	width: 25px;
+	height: 25px;
+	margin-right: 5px;
+}
+
+#event-footer {
+	padding-top: 40px;
+}
+
+.footer-copyright {
+	padding-top: 20px;
+}
